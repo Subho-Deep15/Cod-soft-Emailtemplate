@@ -1,2 +1,6 @@
-# ve_
-🐠 pickled with zero-runtime and variants, I left Stitches and came to VE.
+This is to create a project on Email-template design
+
+Made by,
+Subhodeep Kirtuniya
+@Subho-Deep15
+subhodeepkirtuniyadgpe5678@gmail.com
